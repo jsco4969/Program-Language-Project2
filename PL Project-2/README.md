@@ -1,0 +1,1 @@
+java -cp target/classes quadtree.Main commands.cmmd
